@@ -1,3 +1,3 @@
-![Project Preview](assets/Preview.png)
+![Project Preview](Preview.png)
 
 
